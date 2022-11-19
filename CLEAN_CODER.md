@@ -25,3 +25,30 @@
 * Instead of agreeing with me, "Joe asked, "What are you talking about Matt?"
 * I said, "You know. Our usual song and dance. We're talking about four PDF files, right? That are done; legal just has to approve them? Let's go hang out in their cubicles, give them the evil eye, and get this thing done!"
 * Joe did not agree with my assessment, and answered, "We'll just go live late next week. No big deal."
+* You can probably guess the rest of the exchange; it sounded something like this:
+
+        Matt: "But why? They could do this in a couple hours."
+        Joe: "It might take more than that."
+        Matt: "But they've got all weekend. Plenty of time. Let's do this!"
+        Joe: "Matt, these are professionals. We can't just stare them down and insist they sacrifice their personal lives for our little project."
+        Matt: (pause) "...Joe...what do you think we've been doing to the engineering team for the past four months?"
+        Joe: "Yes, but these are professionals".
+
+* Pause
+* Breath.
+* What. Did. Joe. Just. Say?
+* All the time. I thought the technical staff were professionals, in the best sense of the word.
+* Thinking back over it again, though. I'm not so sure.
+* Let's look at that Batman and Robin technique a second time, from a different perspective. I thought I was exhorting the team to its best performance, but I suspect Joe was playing a game, with the implicit assumption that the technical staff was his opponent. Think about it. Why was it necessary to run around, kicking over chairs and leaning on people?
+* Shouldn't we have been able to ask the staff when they would be done, get a firm answer, believe the answer we were given, and not be burned by that belief?
+* Certainly, for professionals, we should... and, at the same time, we could not. Joe didn't trut our answers, and felt comfortable micromanaging the tech team--and at the same time, for some reason, he did trust the legal team and was not willing to micromanage them.
+* What's that all about?
+* Somehow, the legal team had demonstrated professsionalism in a way the technical team had not.
+* Somehow, another group had convinced Joe that they did not need a babysitter, that they were not playing games, and that they needed to be treated as peers who were respected.
+* No, I don't think it had anything to do with fancy certificates hanging on walls or a few extra years of college, although those years of college might have included a fair bit of implicit social training on how to behave.
+* Ever since that day, those long years ago, I've wondered how the technical profession would have to change in order to be regarded as professionals.
+* Oh, I have a few ideas. I've blogged a bit, read a lot, managed to improve my own work life situation and help a few others. Yet I knew of no book that laid out a plan, that made the whole thing explicit.
+* Then one day, out of the blue, I got an offer to review an early draft of a book; the book that you are holding in your hands right now.
+* This book will tell step by step exactly how to present yourself and interact as a professional. Not with trite cliche, not with appeals to pieces of paper, but what you can do and how to do it.
+* In some cases, the examples are word for word.
+* Some of those example have replies, counter-replies, clarifications, even advice for what to do if the other person tries to "just ignore you."
