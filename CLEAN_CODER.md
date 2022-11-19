@@ -52,3 +52,53 @@
 * This book will tell step by step exactly how to present yourself and interact as a professional. Not with trite cliche, not with appeals to pieces of paper, but what you can do and how to do it.
 * In some cases, the examples are word for word.
 * Some of those example have replies, counter-replies, clarifications, even advice for what to do if the other person tries to "just ignore you."
+* Hey, look at that, here comes Joe again, stage left this time;
+* Oh, here we are, back at BigCo, with Joe and me, once more on the big web site conversion project.
+* Only this time, imagine it just a little bit differently.
+* Instead of shirking from commitments, the technical staff actually makes them. Instead of shirking from estimates or letting someone else do the planning (then complaining about it), the technical team actually self-organizes and makes real commitments.
+* Now imagine that the staff is actually working together. When the programmers are blocked by operations, they pick up the phone and the sysadmin actually gets started on the work.
+* When Joe comes by to light a fire to get ticket 14321 worked on, he doesn't need to; he can see that the DBA is working diligently, not surfing the web. Likewise, the estimates he gets from staff seem downright consistent, and he doesn't get the feeling that the project is in priority somewhere between lunch and checking email. All the tricks and attempts to manipulate the schedule are not met with, "We'll try", but instead, "That's our commitment; if you want to make up your own goals, feel free."
+* After a while, I suspect Joe would start to think of the technical team as, well, professionals. And he'd be right.
+* Those steps to transform your behavior from technician to professional? You'll find them in the rest of the book.
+* Welcome to the next step in your career; I suspect you are going to like it.
+* --Matthew heusser, Software Process Naturalist
+
+## MY: Because of the trivialness of this book. the structure of this note will just be summary of this chapter, including keypoints, sparkled with important information marked as [IM] and cool information marked as [CL]. Summary marked as [SM]
+
+## Preface
+* [SM] In 1986 Space Shuttle Challenger explodes. An engineer knew the risk and wrote a memo. Manager thought they knew better. The engineer did what they could to prevent the launch, still the manager overrode them.
+
+### About This Book
+* This book is about software professionalism. It contains a lot of pragmatic advice in an attempt to answer questions, such as
+
+* What is a software professional?
+* How does a professional behave?
+* How does a professional deal with conflict, tight schedules, and unreasonable managers?
+* When, and how, should a professional say "no"?
+* How does a professional deal with pressure?
+
+* But hiding within the pragmatic advice in this book you will find an attitude struggling to break through. It is an attitude of **honesty, of honor, self-respect, and of pride**. It is a willingness to accept the dire responsbility of being a craftman and an engineer. That responsibility includes working well and working clean. It includes communicating well and estimating faithfully. It includes managing your time and facing difficult risk-reward decisions.
+* But that responsibility includes one other thing--one frightening thing. As an engineer, you have a depth of knowledge about your systems and projects that no managers can possibly have. **With that knowledge comes the responsibility to act.**
+
+# 1. Professionalism
+* [SM] A story about shipping buggy update. **Upon reflection I realized that shipping without testing the routine had been irresponsible. The reason I neglected the test was so I could say I had shipped on time. It was about me saving face. I had not been concerned about the customer, nor about my employer. I had only been concerned about my own reputation. I should have taken responsibility early and told Tom that the tests weren't complete and that i was not prepared to ship the software on time. That would have been hard, and Tom would have been upset. But no customers would have lost data, and no service managers would have called.
+* Don't create bugs
+* QA Should find nothing
+* Do no harm to structure. The true professional knows that delivering function at the expense of structure is a fool's errand. it is the structure of your code taht allows it to be flexible. If you compromise the structure, you compromise the future. [MY]: Do it with principles and patterns of software design
+* [IM] A good test coverage allows you to mercilessly refactor
+* Work on your professional development. Just 20 hours per week is enough
+* [SM] Know your field. Know about the past 50 years of knowledge. Design patterns. (GOF book, POSA book), Design principles (SOLID principle, component principles), methods (XP, Scrum, Kanban, Waterfall, Structual Analysis, and Structural Design), Disciplines (TDD, Object-Oriented design, Structured Programming, Continuous Integration, and Pair Programming), Artifacts (UML, DFD, Structual Charts, Petri nets, State Transition Diagrams and Tables, flow charts, and decision tables)
+* [SM] Continuous learning. Read books, articles, blogs tweets. Go to conference. Go to user groups. Participate in reading and study groups. Learn things that are outside your comfort zone.
+* Practice, do competitive programming.
+* [SM] Pair program
+* [SM] mentor people.
+* [SM] Know the business domain. If you write a travel application, know the travel industry. If you write accounting system, you should know the accounting field.
+* [SM] Identify with your employer/cutomer.
+* [SM] Humility
+
+## 2. Saying No
+* [SM] A story of going live
+* [IM] Never say "You will try". Your manager is counting on you to defend your objectives as aggressively as he defends his. 
+* [SM] An exchange between the developer and his manager
+
+page 29
