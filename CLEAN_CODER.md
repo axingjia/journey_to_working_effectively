@@ -100,5 +100,8 @@
 * [SM] A story of going live
 * [IM] Never say "You will try". Your manager is counting on you to defend your objectives as aggressively as he defends his. 
 * [SM] An exchange between the developer and his manager
+* [SM] A story about doing RFP for commercial client. 1. Client doesn't give out detail requirement and doesn't give required resources. 2. Because of this, coding needed to be rushed, so good code becomes impossible for commercial contract. 3. Clients doesn't care that much. 4. The project fails and the release is pulled back
+* [SM] Whose fault is it? The author put it to partly the employer, wholly the programmer, because it's the programmer who accepts all the extra work and responsibility. In short, trying to be a hero. The programmer uses all the unprofessional tricks to get the job done.
 
-page 29
+
+page 45
